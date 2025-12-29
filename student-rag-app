@@ -1,0 +1,11 @@
+Name,Age,City,Course,Email
+Ali,20,Lahore,Data Science,ali@gmail.com
+Sara,,Karachi,AI,sara@@gmail.com
+Ahmed,22,,Machine Learning,ahmed@gmail
+Ayesha,21,Islamabad,Data Science,ayesha@gmail.com
+Ali,20,Lahore,Data Science,ali@gmail.com
+Name,Age,City,Course,Email
+Ali,20,Lahore,Data Science,ali@gmail.com
+Sara,21,Karachi,AI,invalid@email.com
+Ahmed,22,Unknown,Machine Learning,invalid@email.com
+Ayesha,21,Islamabad,Data Science,ayesha@gmail.com
